@@ -1,0 +1,6 @@
+{"mainfile":"app/src/main/java/codepath/demos/helloworlddemo/HelloWorldActivity.java",
+"compilemenucommand":"./gradlew && ./gradlew build",
+"runmenucommand":"chmod 777 ./runfile.sh && ./runfile.sh",
+"previewApp":true,
+"emberParams":"device=nexus5&scale=75&orientation=portrait&osVersion=8.1&centered=true"
+}

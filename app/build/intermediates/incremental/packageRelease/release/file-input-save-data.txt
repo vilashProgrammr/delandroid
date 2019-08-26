@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Aug 26 06:51:07 GMT 2019
+0.baseType=DIRECTORY
+0.base=/home/project/android_hello_world/app/build/intermediates/transforms/dex/release/0
+0.path=classes.dex
+0.set=DEX
+count=1
